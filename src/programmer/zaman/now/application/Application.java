@@ -9,6 +9,6 @@ public class Application {
     System.out.println(product.name);
     System.out.println(product.price);
 
-    Data data new Data();
+    Data data = new Data();
   }
 }
